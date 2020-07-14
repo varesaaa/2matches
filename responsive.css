@@ -1,0 +1,41 @@
+@media (max-width: 1000px) {
+  .product {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  .top-wrapper h1 {
+    font-size: 30px;
+  }
+  .heading h2 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 670px) {
+  .product {
+    width: 100%;
+  }
+  .footer {
+    text-align: center;
+  }
+  .btn {
+    width: 100%;
+  }
+  .facebook {
+    margin-bottom: 10px;
+  }
+  .top-wrapper {
+    text-align: left;
+    padding-top: 130px;
+  }
+  .header-right {
+    display:none;
+  }
+  .menu-icon {
+    display: block;
+  }
+  .top-wrapper h1 {
+  font-size: 22px;
+  line-height: 36px;
+  }
+}
